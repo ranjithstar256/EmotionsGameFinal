@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:orientation="vertical"
+
+    tools:context=".SelectModeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:background="#0277bd"
+        android:gravity="center"
+
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:onClick="gotogame"
+            android:layout_height="wrap_content"
+            android:padding="30dp"
+            android:src="@drawable/balloons1" />
+
+        <TextView
+            android:layout_marginTop="-20dp"
+        android:layout_width="wrap_content"
+            android:textColor="#fff"
+            android:textSize="16sp"
+
+            android:textStyle="bold|italic"
+        android:text="Game Mode"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="#ffd54f"
+
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="30dp" android:onClick="gotolearn"
+            android:src="@drawable/birthd1" />
+
+        <TextView
+            android:layout_marginTop="-20dp"
+            android:textStyle="bold|italic"
+
+            android:textSize="16sp"
+            android:textColor="#000"
+            android:layout_width="wrap_content"
+            android:text="Learning Mode"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

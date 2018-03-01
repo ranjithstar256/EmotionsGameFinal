@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Emotions">
+        <item>Happiness</item>
+        <item>Sadness</item>
+        <item>Good</item>
+        <item>Bad</item>
+        <item>Anger</item>
+        <item>Anxiety</item>
+        <item>Disgust</item>
+        <item>Weird</item>
+    </string-array>
+    <string-array name="Happiness">
+        <item>bliss</item>
+        <item>contentment</item>
+        <item>enjoyment</item>
+        <item>euphoria</item>
+        <item>exhilaration</item>
+        <item>glee</item>
+        <item>joy</item>
+        <item>jubilation</item>
+        <item>laughter</item>
+        <item>optimism</item>
+        <item>pleasure</item>
+        <item>prosperity</item>
+        <item>well-being</item>
+        <item>beatitude</item>
+        <item>blessedness</item>
+        <item>cheer</item>
+        <item>cheerfulness</item>
+        <item>content</item>
+        <item>delectation</item>
+        <item>delirium</item>
+        <item>ecstasy</item>
+        <item>enchantment</item>
+        <item>exuberance</item>
+        <item>felicity</item>
+        <item>gaiety</item>
+        <item>geniality</item>
+        <item>gladness</item>
+        <item>hilarity</item>
+        <item>hopefulness</item>
+        <item>joviality</item>
+        <item>lightheartedness</item>
+        <item>merriment</item>
+        <item>mirth</item>
+        <item>paradise</item>
+        <item>playfulness</item>
+        <item>rejoicing</item>
+        <item>sanctity</item>
+        <item>vivacity</item>
+    </string-array>
+    <string-array name="Sadness">
+        <item>Anguish</item>
+        <item>Grief</item>
+        <item>Heartache</item>
+        <item>Heartbreak</item>
+        <item>Hopelessness</item>
+        <item>Melancholy</item>
+        <item>Misery</item>
+        <item>Mourning</item>
+        <item>Poignancy</item>
+        <item>Sorrow</item>
+        <item>Blahs</item>
+        <item>Bleakness</item>
+        <item>Bummer</item>
+        <item>Dejection</item>
+        <item>Despondency</item>
+        <item>Distress</item>
+        <item>Dolor</item>
+        <item>Downer</item>
+        <item>Dysphoria</item>
+        <item>Forlornness</item>
+        <item>Funk</item>
+        <item>Gloominess</item>
+        <item>Letdown</item>
+        <item>Listlessness</item>
+        <item>Moodiness</item>
+        <item>Mopes</item>
+        <item>Tribulation</item>
+        <item>Woe</item>
+        <item>Grieving</item>
+    </string-array>
+    <string-array name="Anger">
+        <item>Acrimony</item>
+        <item>Animosity</item>
+        <item>Annoyance</item>
+        <item>Antagonism</item>
+        <item>Displeasure</item>
+        <item>Enmity</item>
+        <item>Exasperation</item>
+        <item>Fury</item>
+        <item>Hatred</item>
+        <item>Impatience</item>
+        <item>Indignation</item>
+        <item>Ire</item>
+        <item>Irritation</item>
+        <item>Outrage</item>
+        <item>Passion</item>
+        <item>Rage</item>
+        <item>Resentment</item>
+        <item>Temper</item>
+        <item>Violence</item>
+        <item>Chagrin</item>
+        <item>Choler</item>
+        <item>Conniption</item>
+        <item>Dander</item>
+        <item>Disapprobation</item>
+        <item>Distemper</item>
+        <item>Gall</item>
+        <item>Huff</item>
+        <item>Infuriation</item>
+        <item>Irascibility</item>
+        <item>Irritability</item>
+        <item>Miff</item>
+        <item>Peevishness</item>
+        <item>Petulance</item>
+        <item>Pique</item>
+        <item>Rankling</item>
+        <item>Soreness</item>
+        <item>Stew</item>
+        <item>Storm</item>
+        <item>Tantrum</item>
+        <item>Tiff</item>
+        <item>Umbrage</item>
+        <item>Vexation</item>
+        <item>Mad</item>
+    </string-array>
+    <string-array name="Anxiety">
+        <item>Angst</item>
+        <item>Apprehension</item>
+        <item>Concern</item>
+        <item>Disquiet</item>
+        <item>Doubt</item>
+        <item>Dread</item>
+        <item>Jitters</item>
+        <item>Misery</item>
+        <item>Misgiving</item>
+        <item>Mistrust</item>
+        <item>Nervousness</item>
+        <item>Panic</item>
+        <item>Restlessness</item>
+        <item>Suffering</item>
+        <item>Suspense</item>
+        <item>Trouble</item>
+        <item>Uncertainty</item>
+        <item>Unease</item>
+        <item>Uneasiness</item>
+        <item>Botheration</item>
+        <item>Butterflie</item>
+        <item>Care</item>
+        <item>Creeps</item>
+        <item>Disquietude</item>
+        <item>Distress</item>
+        <item>Downer</item>
+        <item>Drag</item>
+        <item>Flap</item>
+        <item>Foreboding</item>
+        <item>Fuss</item>
+        <item>Heebie-jeebies</item>
+        <item>Needles</item>
+        <item>Solicitude</item>
+        <item>Sweat</item>
+        <item>Watchfulness</item>
+        <item>Willies</item>
+        <item>Worriment</item>
+        <item>All-overs</item>
+        <item>Nail-biting</item>
+    </string-array>
+    <string-array name="Disgust">
+        <item>antipathy</item>
+        <item>dislike</item>
+        <item>distaste</item>
+        <item>hatred</item>
+        <item>loathing</item>
+        <item>revulsion</item>
+        <item>abhorrence</item>
+        <item>abomination</item>
+        <item>detestation</item>
+        <item>hatefulness</item>
+        <item>nausea</item>
+        <item>objection</item>
+        <item>repugnance</item>
+        <item>revolt</item>
+        <item>satiation</item>
+        <item>satiety</item>
+        <item>sickness</item>
+        <item>surfeit</item>
+        <item>nauseation</item>
+        <item>nauseousness</item>
+    </string-array>
+    <string-array name="Weird">
+        <item>mysterious</item>
+        <item>unreal</item>
+        <item>ghostly</item>
+        <item>unearthly</item>
+        <item>supernatural</item>
+        <item>ghostly</item>
+        <item>unearthly</item>
+        <item>supernatural</item>
+        <item>preternatural</item>
+        <item>unnatural</item>
+        <item>eerie</item>
+        <item>uncanny</item>
+    </string-array>
+    <string-array name="Good">
+        <item>Fine</item>
+        <item>Of high quality</item>
+        <item>Of high standard</item>
+        <item>Quality</item>
+        <item>Superior</item>
+        <item>Proficient</item>
+        <item>adroit</item>
+        <item>Superior</item>
+        <item>Proficient</item>
+        <item>adroit</item>
+    </string-array>
+    <string-array name="Bad">
+        <item>Poor</item>
+        <item>inferior</item>
+        <item>deficient</item>
+        <item>Imperfect</item>
+        <item>Defective</item>
+        <item>Faulty</item>
+        <item>Substandard</item>
+        <item>Defective</item>
+        <item>Faulty</item>
+        <item>Substandard</item>
+    </string-array>
+
+    <string-array name="words">
+        <item>bliss</item>
+        <item>contentment</item>
+        <item>enjoyment</item>
+        <item>euphoria</item>
+        <item>exhilaration</item>
+        <item>glee</item>
+        <item>joy</item>
+        <item>jubilation</item>
+        <item>laughter</item>
+        <item>optimism</item>
+        <item>pleasure</item>
+        <item>prosperity</item>
+        <item>well-being</item>
+        <item>beatitude</item>
+        <item>blessedness</item>
+        <item>cheer</item>
+        <item>cheerfulness</item>
+        <item>content</item>
+        <item>delectation</item>
+        <item>delirium</item>
+        <item>ecstasy</item>
+        <item>enchantment</item>
+        <item>exuberance</item>
+        <item>felicity</item>
+        <item>gaiety</item>
+        <item>geniality</item>
+        <item>gladness</item>
+        <item>hilarity</item>
+        <item>hopefulness</item>
+        <item>joviality</item>
+        <item>lightheartedness</item>
+        <item>merriment</item>
+        <item>mirth</item>
+        <item>paradise</item>
+        <item>playfulness</item>
+        <item>rejoicing</item>
+        <item>sanctity</item>
+        <item>vivacity</item>
+        <item>Dysphoria</item>
+        <item>Forlornness</item>
+        <item>Funk</item>
+        <item>Gloominess</item>
+        <item>Letdown</item>
+        <item>Listlessness</item>
+        <item>Moodiness</item>
+        <item>Mopes</item>
+        <item>Tribulation</item>
+        <item>Woe</item>
+        <item>Grieving</item>
+        <item>Acrimony</item>
+        <item>Animosity</item>
+        <item>Annoyance</item>
+        <item>Antagonism</item>
+        <item>Displeasure</item>
+        <item>Enmity</item>
+        <item>Exasperation</item>
+        <item>Fury</item>
+        <item>Hatred</item>
+        <item>Impatience</item>
+        <item>Indignation</item>
+        <item>Ire</item>
+        <item>Irritation</item>
+        <item>Outrage</item>
+        <item>Passion</item>
+        <item>Rage</item>
+        <item>Resentment</item>
+        <item>Temper</item>
+        <item>Violence</item>
+        <item>Chagrin</item>
+        <item>Choler</item>
+        <item>Conniption</item>
+        <item>Dander</item>
+        <item>Disapprobation</item>
+        <item>Distemper</item>
+        <item>Gall</item>
+        <item>Huff</item>
+        <item>Infuriation</item>
+        <item>Irascibility</item>
+        <item>Irritability</item>
+        <item>Miff</item>
+        <item>Peevishness</item>
+        <item>Petulance</item>
+        <item>Pique</item>
+        <item>Rankling</item>
+        <item>Soreness</item>
+        <item>Stew</item>
+        <item>Storm</item>
+        <item>Tantrum</item>
+        <item>Tiff</item>
+        <item>Umbrage</item>
+        <item>Vexation</item>
+        <item>Mad</item>
+        <item>Angst</item>
+        <item>Apprehension</item>
+        <item>Concern</item>
+        <item>Disquiet</item>
+        <item>Doubt</item>
+        <item>Dread</item>
+        <item>Jitters</item>
+        <item>Misery</item>
+        <item>Misgiving</item>
+        <item>Mistrust</item>
+        <item>Nervousness</item>
+        <item>Panic</item>
+        <item>Restlessness</item>
+        <item>Suffering</item>
+        <item>Suspense</item>
+        <item>Trouble</item>
+        <item>Uncertainty</item>
+        <item>Unease</item>
+        <item>Uneasiness</item>
+        <item>Botheration</item>
+        <item>Butterflies</item>
+        <item>Care</item>
+        <item>Creeps</item>
+        <item>Disquietude</item>
+        <item>Distress</item>
+        <item>Downer</item>
+        <item>Drag</item>
+        <item>Flap</item>
+        <item>Foreboding</item>
+        <item>Fuss</item>
+        <item>Heebie-jeebies</item>
+        <item>Needles</item>
+        <item>Solicitude</item>
+        <item>Sweat</item>
+        <item>Watchfulness</item>
+        <item>Willies</item>
+        <item>Worriment</item>
+        <item>All-overs</item>
+        <item>Nail-biting</item>
+        <item>Antipathy</item>
+        <item>Dislike</item>
+        <item>Distaste</item>
+        <item>Hatred</item>
+        <item>Loathing</item>
+        <item>Revulsion</item>
+        <item>Abhorrence</item>
+        <item>Abomination</item>
+        <item>Detestation</item>
+        <item>Hatefulness</item>
+        <item>Nausea</item>
+        <item>Objection</item>
+        <item>Repugnance</item>
+        <item>Revolt</item>
+        <item>Satiation</item>
+        <item>Satiety</item>
+        <item>Sickness</item>
+        <item>Surfeit</item>
+        <item>Nauseousness</item>
+
+        <item>mysterious</item>
+        <item>unreal</item>
+        <item>ghostly</item>
+        <item>unearthly</item>
+        <item>supernatural</item>
+        <item>unearthly</item>
+        <item>preternatural</item>
+        <item>unnatural</item>
+        <item>eerie</item>
+        <item>uncanny</item>
+
+        <item>Fine</item>
+        <item>Of high quality</item>
+        <item>Of high standard</item>
+        <item>Quality</item>
+        <item>Superior</item>
+        <item>Proficient</item>
+        <item>adroit</item>
+        <item>Superior</item>
+        <item>Proficient</item>
+        <item>adroit</item>
+
+        <item>Poor</item>
+        <item>inferior</item>
+        <item>deficient</item>
+        <item>Imperfect</item>
+        <item>Defective</item>
+        <item>Faulty</item>
+        <item>Substandard</item>
+        <item>Defective</item>
+        <item>Faulty</item>
+        <item>Substandard</item>
+
+</string-array>
+    <string-array name="meanings">
+        <item>supreme happiness- utter joy or contentment- wedded bliss.</item>
+        <item>the state of being contented- satisfaction- ease of mind.</item>
+        <item>the act of enjoying.</item>
+        <item>a state of intense happiness and self-confidence- She was flooded with euphoria as she went to the podium to receive her Student Research Award.</item>
+        <item>exhilarated condition or feeling.</item>
+        <item>open delight or pleasure- exultant joy- exultation.</item>
+        <item>the emotion of great delight or happiness caused by something exceptionally good or satisfying</item>
+        <item>a feeling of or the expression of joy or exultation- Their jubilation subsided when they lost the second game.</item>
+        <item>the action or sound of laughing.</item>
+        <item>a disposition or tendency to look on the more favorable side of events or conditions and to expect the most favorable outcome.</item>
+        <item>the state or feeling of being pleased.</item>
+        <item>a successful, flourishing, or thriving condition, especially in financial respects- good fortune.</item>
+        <item>a good or satisfactory condition of existence- a state characterized by health, happiness, and prosperity- welfare- to influence the well-being of the nation and its people.</item>
+        <item>supreme blessedness- exalted happiness.</item>
+        <item>consecrated- sacred- holy- sanctified- the Blessed Sacrament.</item>
+        <item>a shout of encouragement, approval, congratulation, etc.- The cheers of the fans filled the stadium.</item>
+        <item>full of cheer- in good spirits- a cheerful person.</item>
+        <item>something that is contained- the contents of a box.</item>
+        <item>delight- enjoyment.</item>
+        <item>Pathology. a more or less temporary disorder of the mental faculties, as in fevers, disturbances of consciousness, or intoxication, characterized by restlessness, excitement, delusions, hallucinations, etc.</item>
+        <item>rapturous delight.</item>
+        <item>the art, act, or an instance of enchanting.</item>
+        <item>Also, exuberancy. the state of being exuberant.</item>
+        <item>the state of being happy, especially in a high degree- bliss- marital felicity.</item>
+        <item>the state of being joyous, vivacious, or cheerful.</item>
+        <item>warmly and pleasantly cheerful- cordial- a genial disposition- a genial host.</item>
+        <item>feeling joy or pleasure- delighted- pleased- glad about the good news- glad that you are here.</item>
+        <item>cheerfulness- merriment- mirthfulness.</item>
+        <item>full of hope- expressing hope- His hopeful words stimulated optimism.</item>
+        <item>the state or quality of being jovial- merriment- jollity.</item>
+        <item>carefree- cheerful- merry- a lighthearted laugh.</item>
+        <item>cheerful or joyful gaiety- mirth- hilarity- laughter.</item>
+        <item>gaiety or jollity, especially when accompanied by laughter- the excitement and mirth of the holiday season.</item>
+        <item>heaven, as the final abode of the righteous.</item>
+        <item>full of play or fun- sportive- frolicsome.</item>
+        <item>the act of a person who rejoices.</item>
+        <item>holiness, saintliness, or godliness.</item>
+        <item>the quality or state of being vivacious.</item>
+        <item>a state of dissatisfaction, anxiety, restlessness, or fidgeting.</item>
+        <item>desolate or dreary- unhappy or miserable, as in feeling, condition, or appearance.</item>
+        <item>cowering fear- state of great fright or terror.</item>
+        <item>dark or dim- deeply shaded- gloomy skies.</item>
+        <item>a decrease in volume, force, energy, etc.- a letdown in sales- a general letdown of social barriers.</item>
+        <item>having or showing little or no interest in anything- languid- spiritless- indifferent- a listless mood- a listless handshake.</item>
+        <item>given to gloomy, depressed, or sullen moods- ill-humored.</item>
+        <item>to be sunk in dejection or listless apathy- sulk- brood.</item>
+        <item>grievous trouble- severe trial or suffering.</item>
+        <item>grievous distress, affliction, or trouble- His woe was almost beyond description.</item>
+        <item>to feel grief or great sorrow- She has grieved over his death for nearly three years.</item>
+        <item>sharpness, harshness, or bitterness of nature, speech, disposition, etc.- The speaker attacked him with great acrimony.</item>
+        <item>a feeling of strong dislike, ill will, or enmity that tends to display itself in action- a deep-seated animosity between two sisters- animosity against one s neighbor.</item>
+        <item>a person or thing that annoys- nuisance- Unwanted visitors are an annoyance.</item>
+        <item>an active hostility or opposition, as between unfriendly or conflicting groups- the antagonism between the liberal and the conservative parties.</item>
+        <item>dissatisfaction, disapproval, or annoyance.</item>
+        <item>a feeling or condition of hostility- hatred- ill will- animosity- antagonism.</item>
+        <item>an act or instance of exasperating- provocation.</item>
+        <item>unrestrained or violent anger, rage, passion, or the like- The gods unleashed their fury on the offending mortal.</item>
+        <item>the feeling of one who hates- intense dislike or extreme aversion or hostility.</item>
+        <item>lack of patience.</item>
+        <item>strong displeasure at something considered unjust, offensive, insulting, or base- righteous anger.</item>
+        <item>intense anger- wrath.</item>
+        <item>the act of irritating or the state of being irritated.</item>
+        <item>an act of wanton cruelty or violence- any gross violation of law or decency.</item>
+        <item>any powerful or compelling emotion or feeling, as love or hate.</item>
+        <item>angry fury- violent anger (sometimes used in combination)- a speech full of rage- incidents of road rage.</item>
+        <item>the feeling of displeasure or indignation at some act, remark, person, etc., regarded as causing injury or insult.</item>
+        <item>a particular state of mind or feelings.</item>
+        <item>swift and intense force- the violence of a storm.</item>
+        <item>a feeling of vexation, marked by disappointment or humiliation.</item>
+        <item>irascibility- anger- wrath- irritability.</item>
+        <item>Often, conniptions. Informal. a fit of hysterical excitement or anger.</item>
+        <item>loose scales formed on the skin and shed from the coat or feathers of various animals, often causing allergic reactions in susceptible persons.</item>
+        <item>disapproval- condemnation.</item>
+        <item>Also called canine distemper. an infectious disease chiefly of young dogs, caused by an unidentified virus and characterized by lethargy, fever, catarrh, photophobia, and vomiting.</item>
+        <item>impudence- effrontery.</item>
+        <item>a mood of sulking anger- a fit of resentment- Just because you disagree, don t walk off in a huff.</item>
+        <item>to make furious- enrage.</item>
+        <item>easily provoked to anger- very irritable- an irascible old man.</item>
+        <item>the quality or state of being irritable.</item>
+        <item>petulant displeasure- ill humor.</item>
+        <item>cross, querulous, or fretful, as from vexation or discontent- a peevish youngster.</item>
+        <item>the state or quality of being petulant.</item>
+        <item>to affect with sharp irritation and resentment, especially by some wound to pride- She was greatly piqued when they refused her invitation.</item>
+        <item>(of unpleasant feelings, experiences, etc.) to continue to cause keen irritation or bitter resentment within the mind- fester- be painful.</item>
+        <item>physically painful or sensitive, as a wound, hurt, or diseased part- a sore arm.</item>
+        <item>to cook (food) by simmering or slow boiling.</item>
+        <item>a disturbance of the normal condition of the atmosphere, manifesting itself by winds of unusual force or direction, often accompanied by rain, snow, hail, thunder, and lightning, or flying sand or dust.</item>
+        <item>a violent demonstration of rage or frustration- a sudden burst of ill temper.</item>
+        <item>a slight or petty quarrel.</item>
+        <item>offense- annoyance- displeasure- to feel umbrage at a social snub- to give umbrage to someone- to take umbrage at someone s rudeness.</item>
+        <item>the act of vexing.</item>
+        <item>mentally disturbed- deranged- insane- demented.</item>
+        <item>a feeling of dread, anxiety, or anguish.</item>
+        <item>anticipation of adversity or misfortune- suspicion or fear of future trouble or evil.</item>
+        <item>to relate to- be connected with- be of interest or importance to- affect- The water shortage concerns us all.</item>
+        <item>lack of calm, peace, or ease- anxiety- uneasiness.</item>
+        <item>to be uncertain about- consider questionable or unlikely- hesitate to believe.</item>
+        <item>to fear greatly- be in extreme apprehension of- to dread death.</item>
+        <item>jitters, nervousness- a feeling of fright or uneasiness (usually preceded by the)- Every time I have to make a speech, I get the jitters.</item>
+        <item>wretchedness of condition or circumstances.</item>
+        <item>Often, misgivings. a feeling of doubt, distrust, or apprehension.</item>
+        <item>lack of trust or confidence- distrust.</item>
+        <item>highly excitable- unnaturally or acutely uneasy or apprehensive- to become nervous under stress.</item>
+        <item>a sudden overwhelming fear, with or without cause, that produces hysterical or irrational behavior, and that often spreads quickly through a group of persons or animals.</item>
+        <item>characterized by or showing inability to remain at rest- a restless mood.</item>
+        <item>the state of a person or thing that suffers.</item>
+        <item>a state or condition of mental uncertainty or excitement, as in awaiting a decision or outcome, usually accompanied by a degree of apprehension or anxiety.</item>
+        <item>to disturb the mental calm and contentment of- worry- distress- agitate.</item>
+        <item>the state of being uncertain- doubt- hesitancy- His uncertainty gave impetus to his inquiry.</item>
+        <item>not easy in body or mind- uncomfortable- restless- disturbed- perturbed.</item>
+        <item>not easy in body or mind- uncomfortable- restless- disturbed- perturbed.</item>
+        <item>(used as an exclamation indicating vexation or annoyance.)</item>
+        <item>any of numerous diurnal insects of the order Lepidoptera, characterized by clubbed antennae, a slender body, and large, broad, often conspicuously marked wings.</item>
+        <item>a state of mind in which one is troubled- worry, anxiety, or concern- He was never free from care.</item>
+        <item>Veterinary Pathology. a disease of the bones in sheep and cattle that causes pain in walking, resulting from a deficiency of phosphorus in the diet.</item>
+        <item>the state of disquiet- uneasiness.</item>
+        <item>great pain, anxiety, or sorrow- acute physical or mental suffering- affliction- trouble.</item>
+        <item>a depressant or sedative drug, especially a barbiturate.</item>
+        <item>to draw with force, effort, or difficulty- pull heavily or slowly along- haul- trail- They dragged the carpet out of the house.</item>
+        <item>to swing or sway back and forth loosely, especially with noise- A loose shutter flapped outside the window.</item>
+        <item>a prediction- portent.</item>
+        <item>an excessive display of anxious attention or activity- needless or useless bustle- They made a fuss over the new baby.</item>
+        <item>a condition of extreme nervousness caused by fear, worry, strain, etc.- the jitters- the willies (usually preceded by the)- Just thinking about ghosts gives me the heebie-jeebies.</item>
+        <item>define Needles, definition of Needles,</item>
+        <item>the state of being solicitous- anxiety or concern.</item>
+        <item>to perspire, especially freely or profusely.</item>
+        <item>vigilant or alert- closely observant- The sentry remained watchful throughout the night.</item>
+        <item>nervousness or fright- jitters- creeps (usually preceded by the)- That horror movie gave me the willies.</item>
+        <item>the act or an instance of worrying- anxiety.</item>
+        <item>a general feeling of unease and nervousness throughout the body (usually preceded by the).</item>
+        <item>the act or practice of biting one s fingernails, especially as the result of anxiety or nervousness.</item>
+        <item>a natural, basic, or habitual repugnance- aversion.</item>
+        <item>to regard with displeasure, antipathy, or aversion- I dislike working. I dislike oysters.</item>
+        <item>dislike- disinclination.</item>
+        <item>the feeling of one who hates- intense dislike or extreme aversion or hostility.</item>
+        <item>strong dislike or disgust- intense aversion.</item>
+        <item>a strong feeling of repugnance, distaste, or dislike- Cruelty fills me with revulsion.</item>
+        <item>a feeling of extreme repugnance or aversion- utter loathing- abomination.</item>
+        <item>anything abominable- anything greatly disliked or abhorred.</item>
+        <item>abhorrence- hatred.</item>
+        <item>arousing hate or deserving to be hated- the hateful oppression of dictators.</item>
+        <item>sickness at the stomach, especially when accompanied by a loathing for food and an involuntary impulse to vomit.</item>
+        <item>a reason or argument offered in disagreement, opposition, refusal, or disapproval.</item>
+        <item>the state of being repugnant.</item>
+        <item>to break away from or rise against constituted authority, as by open rebellion- cast off allegiance or subjection to those in authority- rebel- mutiny- to revolt against the present government.</item>
+        <item>to supply with anything to excess, so as to disgust or weary- surfeit.</item>
+        <item>the state of being satiated- surfeit.</item>
+        <item>a particular disease or malady.</item>
+        <item>excess- an excessive amount- a surfeit of speechmaking.</item>
+        <item>affected with nausea- nauseated- to feel nauseous.</item>
+
+        <item>(of a location) having an atmosphere of strangeness or secrecy.</item>
+        <item>imaginary or illusory.</item>
+        <item>of or like a ghost in appearance or sound; eerie and unnatural.</item>
+        <item>unnatural or mysterious, especially in a disturbing way.</item>
+        <item>(of a manifestation or event) attributed to some force beyond scientific understanding or the laws of nature.</item>
+        <item>unnatural or mysterious, especially in a disturbing way.</item>
+        <item>beyond what is normal or natural.</item>
+        <item>contrary to the ordinary course of nature; abnormal.</item>
+        <item>strange and frightening</item>
+        <item>strange or mysterious, especially in an unsettling way.</item>
+
+        <item>good; satisfactory.</item>
+        <item>of very good qualit</item>
+        <item>a high level of quality or attainment.</item>
+        <item>the standard of something as measured against other things of a similar kind; the degree of excellence of something.</item>
+        <item>higher in rank, status, or quality.</item>
+        <item>clever or skilful.</item>
+        <item>the standard of something as measured against other things of a similar kind; the degree of excellence of something.</item>
+        <item>higher in rank, status, or quality.</item>
+        <item>clever or skilful.</item>
+
+        <item>lacking sufficient money to live at a standard considered comfortable or normal in a society.</item>
+        <item>lower in rank, status, or quality.</item>
+        <item>insufficient or inadequate.</item>
+        <item>not perfect; faulty or incomplete</item>
+        <item>imperfect or faulty</item>
+        <item>not working or made correctly; having defects</item>
+        <item>below the usual or required standard.</item>
+        <item>imperfect or faulty</item>
+        <item>not working or made correctly; having defects</item>
+        <item>below the usual or required standard.</item>
+
+    </string-array>
+</resources>

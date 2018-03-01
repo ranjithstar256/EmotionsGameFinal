@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Emotions Game</string>
+    <string name="abt_gm">In this mode, you can select the emotion from one of five emotions either during the beginning of the game or in the middle of the game. The objective of the game is to click on words in balloons going upwards in the screen which mean the emotion selected. If a word which means some other emotion is selected there are negative points (positive and negative 10 points). For learning the words, please use the Learning Mode.</string>
+    <string name="abt_lm">In this mode, there are words in balloons going upwards in the screen. However, this mode is purely for learning the meaning of unknown words. When you click on a word, a short summary of what the word means is displayed at the bottom of the screen. Here also you can set the emotion to get a list of words which convey only that emotion.</string>
+
+
+</resources>
